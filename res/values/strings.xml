@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Node Tree Demo</string>
+    <string name="service_label">Node Tree Demo (accessibility capture)</string>
+    <string name="service_description">DEMONSTRATION ONLY. Shows, on-device, what an accessibility service can read from the screen of other apps. It has no internet permission and sends nothing anywhere.</string>
+</resources>

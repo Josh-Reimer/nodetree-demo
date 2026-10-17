@@ -1,0 +1,9 @@
+# build output
+build/
+
+# signing keys — never commit
+*.jks
+*.keystore
+release-key*
+
+.DS_Store
